@@ -1,3 +1,0 @@
-https://github.com/ZishanAnsariOctave/Assignment/blob/main/SVM_&_Navie_bayes.ipynb
-
-Date - 24/02/2025
